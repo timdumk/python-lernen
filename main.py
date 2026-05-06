@@ -41,3 +41,10 @@ try:
     print(age)
 except:
     print("Das war keine Zahl!")
+import random
+number = random.randint(1, 100)
+i = 1
+while i<=5:
+    print(random.randint(1, 100))
+    i += 1
+
