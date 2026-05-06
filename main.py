@@ -36,3 +36,8 @@ person = {"name": "Tim", "age": 20, "city": "Bremen"}
 print(person["name"])
 print(person["age"])
 print(person["city"])
+try:
+    age = int(input("Dein Alter: "))
+    print(age)
+except:
+    print("Das war keine Zahl!")
