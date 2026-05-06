@@ -9,4 +9,5 @@ else:
 
 for _ in range(3):
     print("Tim")
-    
+    films = ["hobbit", "star wars", "james bond"]
+    print(films[1])
