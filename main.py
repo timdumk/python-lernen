@@ -11,3 +11,7 @@ for _ in range(3):
     print("Tim")
     films = ["hobbit", "star wars", "james bond"]
     print(films[1])
+def add(a, b):
+    print(a + b)
+add(5, 7)
+add(10, 15)
