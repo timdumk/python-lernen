@@ -7,3 +7,6 @@ elif age >= 13:
 else:
     print("You are a child.")
 
+for _ in range(3):
+    print("Tim")
+    
