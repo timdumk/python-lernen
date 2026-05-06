@@ -15,3 +15,8 @@ def add(a, b):
     print(a + b)
 add(5, 7)
 add(10, 15)
+
+i=0
+while i <= 10:
+    print(i)
+    i += 1  
