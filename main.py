@@ -27,3 +27,8 @@ films.append("Interstellar")
 
 print(len(films))
 
+def multiply(x, y):
+    return x * y 
+result = multiply(4, 5)
+print(result)
+
